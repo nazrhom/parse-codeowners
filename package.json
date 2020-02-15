@@ -10,11 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "arcsecond": "^2.0.3",
-    "daggy": "^1.4.0"
+    "arcsecond": "^2.0.3"
   },
   "devDependencies": {
-    "ava": "^3.3.0",
-    "serialize-daggy": "^1.0.4"
+    "ava": "^3.3.0"
   }
 }
